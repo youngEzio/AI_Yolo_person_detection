@@ -1,16 +1,6 @@
-<a name="readme-top"></a>
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
+### Performing object detection using the YOLOv4 model</h3>
 
-<h3 align="center">Performing object detection using the YOLOv4 model</h3>
-
-  <p align="center">
-    This repository contains a Jupyter Notebook for performing object detection using the YOLOv4 model in a Google Colab environment. The code focuses on detecting people in an image.
-    <br />
-  </p>
-</div>
-
+This repository contains a Jupyter Notebook for performing object detection using the YOLOv4 model in a Google Colab environment. The code focuses on detecting people in an image.
 
 
 <!-- ABOUT THE PROJECT -->
